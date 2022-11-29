@@ -16,8 +16,9 @@ Passo a passo para conseguir executar a automação:
 14- Adicone o nome da classe como : Metodos e a packge de metodos 
 15- Selecione o Finish 
 16- Dentro da sua Classe Metodos, cole o conteúdo da classe métodos que está logo acima (arquivo metodos)
-17-  Agora em src/test/java, clique com o botão direito + New + Class
-18-  Adicone o nome da classe como : Testes e a packge de testes 
+17- Agora em src/test/java, clique com o botão direito + New + Class
+18- Adicone o nome da classe como : Testes e a packge de testes 
 19 Dentro da sua Classe Testes, cole o conteúdo da classe métodos que está logo acima (arquivo metodos)
 20- Clique na raiz do projeto + botão direito + new Folder, adicione o nome de Drivers e cole o seu chromedriver
 21- Ctrl + S, e depois execute o projeto 
+22- Lembre-se sempre de dar um Ctrl + Shift + O, para importar.
