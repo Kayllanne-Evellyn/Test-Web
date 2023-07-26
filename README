@@ -1,6 +1,6 @@
 Passo a passo para conseguir executar a automação:
 
-1- Entre no Eclipse
+1- Entre na sua IDE de Desenvolvimento
 2- Selecione a opção : File - New - Maven project 
 3- Selecione a opção : Create a simple project
 4- Selecione a opção: Next  
